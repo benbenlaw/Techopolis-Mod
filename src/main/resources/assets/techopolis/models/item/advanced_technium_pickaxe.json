@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+    "layer0": "techopolis:item/advanced_technium_pickaxe"
+    }
+}

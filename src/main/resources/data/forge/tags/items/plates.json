@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "techopolis:basic_technium_plate",
+    "techopolis:advanced_technium_plate",
+    "techopolis:elite_technium_plate",
+    "techopolis:ultimate_technium_plate",
+    "techopolis:nether_technium_plate"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "## ",
+    "  #"
+  ],
+  "key": {
+    "#": {
+      "item": "techopolis:advanced_mob_essence"
+    }
+  },
+  "result": {
+    "item": "minecraft:phantom_membrane",
+	"count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "techopolis:elite_mob_essence"
+    }
+  ],
+  "result": {
+    "item": "techopolis:advanced_mob_essence",
+	"count": 8
+  }
+}

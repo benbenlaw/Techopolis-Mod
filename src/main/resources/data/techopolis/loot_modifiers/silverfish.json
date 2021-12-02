@@ -1,0 +1,9 @@
+{
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:entities/silverfish"
+    }
+  ],
+  "addition": "techopolis:advanced_mob_essence"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "###",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "techopolis:basic_mob_essence"
+    }
+  },
+  "result": {
+    "item": "minecraft:beef",
+	"count": 1
+  }
+}

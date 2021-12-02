@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "techopolis:basic_technium_ingot",
+    "techopolis:advanced_technium_ingot",
+    "techopolis:elite_technium_ingot",
+    "techopolis:ultimate_technium_ingot",
+    "techopolis:nether_technium_ingot"
+  ]
+}

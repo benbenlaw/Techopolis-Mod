@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    " # ",
+    "  #"
+  ],
+  "key": {
+    "#": {
+      "item": "techopolis:elite_mob_essence"
+    }
+  },
+  "result": {
+    "item": "minecraft:ghast_tear",
+	"count": 1
+  }
+}

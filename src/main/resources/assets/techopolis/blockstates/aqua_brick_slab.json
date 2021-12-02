@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "techopolis:block/aqua_brick_slab"
+    },
+    "type=double": {
+      "model": "techopolis:block/aqua_bricks"
+    },
+    "type=top": {
+      "model": "techopolis:block/aqua_brick_slab_top"
+    }
+  }
+}

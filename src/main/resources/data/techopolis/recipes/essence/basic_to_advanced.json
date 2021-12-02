@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#@#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "techopolis:basic_mob_essence"
+    },    
+	"@": {
+      "item": "techopolis:advanced_mob_essence"
+    }
+  },
+  "result": {
+    "item": "techopolis:advanced_mob_essence",
+	"count": 2
+  }
+}
